@@ -15,7 +15,7 @@ Estou estudando para me tornar um **Desenvolvedor Full Stack**.
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI@GMAIL.COM">
+  <a href="mailto:luanmiguel0101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -52,11 +52,10 @@ Estou estudando para me tornar um **Desenvolvedor Full Stack**.
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Status
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanxs0&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxs0&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20232A&center=false&vCenter=true&width=435&lines=Estudante+de+Sistemas;Focado+em+evoluir+sempre;Java+%7C+Python+%7C+Web;Construindo+o+futuro+com+código" alt="Typing SVG" />
 </p>
 
 ---
