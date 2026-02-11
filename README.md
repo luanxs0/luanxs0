@@ -26,10 +26,9 @@ Estou estudando para me tornar um **Desenvolvedor Full Stack**.
 
 ### Linguagens
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Ferramentas
 
@@ -44,7 +43,7 @@ Estou estudando para me tornar um **Desenvolvedor Full Stack**.
 ## ⚡ Status
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20232A&center=false&vCenter=true&width=435&lines=Estudante+de+Sistemas;Focado+em+evoluir+sempre;Java+%7C+PHP+%7C+Web;Construindo+o+futuro+com+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20232A&center=false&vCenter=true&width=435&lines=Estudante+de+Sistemas;Focado+em+evoluir+sempre;JS+%7C+PHP+%7C+Web;Construindo+o+futuro+com+código" alt="Typing SVG" />
 </p>
 
 ---
