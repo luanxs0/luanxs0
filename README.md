@@ -59,12 +59,3 @@ Estou estudando para me tornar um **Desenvolvedor Full Stack**.
 </p>
 
 ---
-
-## 🚀 Objetivo
-
-> *"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende."*
-
----
-
-⭐ Se você gostou dos meus projetos, deixe uma estrela!  
-🤝 Aberto a oportunidades de estágio e colaboração.
