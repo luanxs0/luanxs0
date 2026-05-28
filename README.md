@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou Luan Miguel
+# Olá, Eu sou Luan Miguel
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 
