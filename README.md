@@ -1,20 +1,47 @@
-# Luan Miguel
+<h1 align="center">Luan Miguel</h1>
 
-Estudante de Desenvolvimento de Sistemas | SENAI
+<p align="center">
+  <samp>DESENVOLVIMENTO WEB · ESTUDANTE DO SENAI</samp>
+</p>
+
+<p align="center">
+  <a href="mailto:luanmiguel0101@gmail.com">E-mail</a>
+  &nbsp;·&nbsp;
+  <a href="https://wa.me/5511978266314">WhatsApp</a>
+</p>
+
+<br />
 
 ## Sobre mim
 
-Curso o **Técnico em Desenvolvimento de Sistemas no SENAI** e direciono meus estudos para o desenvolvimento web. Minha formação inclui lógica de programação, construção de interfaces e banco de dados. Nas atividades do curso, pratico a estruturação de páginas com HTML, a criação de layouts com CSS e a implementação de interações com JavaScript.
+Curso o **Técnico em Desenvolvimento de Sistemas no SENAI**, com foco em desenvolvimento web. Nas atividades do curso, trabalho com lógica de programação, interfaces e banco de dados. Pratico a estruturação de páginas com HTML, a criação de layouts com CSS e a implementação de interações com JavaScript.
 
-Meu objetivo é atuar como **desenvolvedor Full Stack**, com conhecimento para trabalhar tanto na interface quanto nas regras de funcionamento de uma aplicação. Para isso, estudo programação com PHP e Python, além da organização de dados e de consultas com MySQL. Quero aprofundar a integração entre essas partes, incluindo o envio de formulários, a validação de informações e a persistência dos dados.
+Quero atuar como **desenvolvedor Full Stack** e aprofundar meu conhecimento sobre o funcionamento de uma aplicação: da interface às regras que processam e armazenam as informações. Estudo PHP, Python e MySQL para avançar na integração de formulários com bancos de dados e na validação das informações que o usuário envia.
 
-Busco minha primeira oportunidade profissional na área, como aprendiz ou estagiário. Quero participar do desenvolvimento e da manutenção de sistemas, aprender com profissionais experientes e aprimorar a forma como escrevo, testo e organizo meu código. Utilizo este perfil para reunir meus estudos e registrar minha prática ao longo dessa formação.
+Busco minha primeira oportunidade como **aprendiz ou estagiário em desenvolvimento de sistemas**. Quero participar do desenvolvimento e da manutenção de aplicações, aprender com profissionais experientes e aprimorar a forma como escrevo, testo e organizo meu código. Neste perfil, reúno os estudos e exercícios que desenvolvo durante minha formação.
 
-## Tecnologias em estudo
+<br />
 
-**Desenvolvimento:** HTML, CSS, JavaScript, PHP, Python e MySQL.  
+### Tecnologias em estudo
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="28" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="28" height="28" />
+</p>
+
+`HTML` `CSS` `JavaScript` `PHP` `Python` `MySQL`
+
 **Ferramentas:** Git, GitHub e Visual Studio Code.
 
-## Contato
+---
 
-[E-mail](mailto:luanmiguel0101@gmail.com) · [WhatsApp](https://wa.me/5511978266314)
+<sub>Contato profissional: <a href="mailto:luanmiguel0101@gmail.com">luanmiguel0101@gmail.com</a></sub>
