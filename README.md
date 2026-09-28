@@ -1,49 +1,80 @@
-# Olá, Eu sou Luan Miguel
+<!-- Perfil principal: https://github.com/luanxs0 -->
+<!-- Referências de organização: github.com/anuraghazra e github.com/DenverCoder1 -->
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:164E63,100:22D3EE&amp;height=220&amp;section=header&amp;text=Luan%20Miguel&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=DESENVOLVIMENTO%20DE%20SISTEMAS&amp;descSize=15&amp;descAlignY=58" alt="Luan Miguel | Desenvolvimento de Sistemas" />
+</p>
 
-Focado no aprendizado prático de desenvolvimento de software e boas práticas.
-Aqui compartilho meus projetos de estudo e minha evolução técnica.
+<p align="center">
+  <strong>Estudante do SENAI · Desenvolvimento web · Foco em Full Stack</strong>
+</p>
 
-Estou estudando para me tornar um **Desenvolvedor Full Stack**.
-
----
-
-## 🌐 Contato
-
-<p align="left">
-  <a href="https://wa.me/5511978266314" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<p align="center">
   <a href="mailto:luanmiguel0101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=22D3EE" alt="Enviar e-mail" />
+  </a>
+  <a href="https://wa.me/5511978266314">
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=22D3EE" alt="Conversar pelo WhatsApp" />
+  </a>
+  <a href="https://github.com/luanxs0?tab=repositories">
+    <img src="https://img.shields.io/badge/Meus%20reposit%C3%B3rios-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="Ver meus repositórios" />
   </a>
 </p>
 
----
+<br />
 
-## 🛠️ Tecnologias
+## Sobre mim
 
-### Linguagens
+Sou **Luan Miguel**, estudante do **Técnico em Desenvolvimento de Sistemas no SENAI**. Desenvolvo projetos acadêmicos para praticar a criação de interfaces, a lógica de programação e o uso de bancos de dados.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Quero atuar como **desenvolvedor Full Stack**. Nos estudos, busco entender como conectar o que o usuário vê na tela às regras e aos dados de uma aplicação.
 
-### Ferramentas
+Estou concentrando meus próximos projetos neste perfil. Também mantenho trabalhos na minha [conta anterior, @luanxso](https://github.com/luanxso).
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## Tecnologias que estudo e utilizo
 
----
+**Interfaces web**
 
-## ⚡ Status
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20232A&center=false&vCenter=true&width=435&lines=Estudante+de+Sistemas;Focado+em+evoluir+sempre;JS+%7C+PHP+%7C+Web;Construindo+o+futuro+com+código" alt="Typing SVG" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&amp;logo=css&amp;logoColor=663399" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
----
+**Programação e banco de dados**
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&amp;logo=php&amp;logoColor=A5A9E8" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&amp;logo=mysql&amp;logoColor=EAA44B" alt="MySQL" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge" alt="Visual Studio Code" />
+</p>
+
+## Projetos em destaque
+
+| Projeto | Proposta e recursos |
+| :--- | :--- |
+| **[AriLine ERP](https://github.com/luanxso/AriLine-ERP)** | Projeto acadêmico de gestão industrial, com interface para ordens de produção, estoque e indicadores. Dashboard com dados simulados. |
+| **[Guia de Testes de Software](https://github.com/luanxs0/Site-Teste-de-Software)** | Site educativo sobre qualidade de software, tipos de teste e casos de falhas, com quiz interativo. Desenvolvi em dupla com Riquelme. |
+| **[Portfólio de Desenvolvimento](https://github.com/luanxso/portifolio-desenvolvedor)** | Página de apresentação pessoal com formação, habilidades e projetos do curso técnico. Prática de HTML e CSS. |
+
+<p align="right">
+  <a href="https://github.com/luanxs0?tab=repositories"><strong>Explorar meus repositórios →</strong></a>
+</p>
+
+## Contato
+
+Busco minha primeira oportunidade em desenvolvimento de sistemas para aplicar o que estudo e aprender com uma equipe.
+
+**[luanmiguel0101@gmail.com](mailto:luanmiguel0101@gmail.com)** · **[WhatsApp](https://wa.me/5511978266314)**
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:164E63,100:22D3EE&amp;height=100&amp;section=footer" alt="" />
+</p>
